@@ -1,1 +1,1 @@
-Please note that some notebooks have been uploaded before fixing some errors so there might be a few issues, the files are included solely to comply with Coursera's assignment.
+Please note that some notebooks have been uploaded before fixing some errors so there might be a few issues, the files are included solely to comply with Coursera, providing the github link.
