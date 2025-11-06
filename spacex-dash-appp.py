@@ -57,7 +57,7 @@ app.layout = html.Div(children=[
 )
 def get_pie_chart(entered_site):
     if entered_site == 'ALL':
-        # Count successful launches per site
+        
         success_counts = spacex_df[spacex_df['class'] == 1]['Launch Site'].value_counts()
         fig = px.pie(
             values=success_counts.values, 
@@ -67,7 +67,7 @@ def get_pie_chart(entered_site):
         return fig
     else:
         filtered_df = spacex_df[spacex_df['Launch Site'] == entered_site]
-        # Count success vs failure for the specific site
+        
         class_counts = filtered_df['class'].value_counts()
         fig = px.pie(
             values=class_counts.values, 
