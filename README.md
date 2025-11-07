@@ -1,1 +1,1 @@
-Please note that some notebooks have been uploaded before fixing some errors so there might be a few issues, the files are included solely to comply with Coursera, providing the github link.
+Please note that some notebooks have been uploaded before fixing some errors so there might be a few issues, the files are included solely to comply with Coursera, providing the github link. Also, some maps aren't being displayed because of problems on the jupyter notebook end.
